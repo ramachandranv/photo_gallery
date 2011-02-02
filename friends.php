@@ -11,7 +11,7 @@ $(this).fadeTo("fast", 0.3);
 });
 });
 </script>
-<style type=text/css>
+<style type="text/css">
 <!-- #zoom img {
 	opacity:.25;
 	-webkit-transition: opacity;	
@@ -42,7 +42,7 @@ h3 {font-family:Arial;
 
 </style>
 </head>
-<body vlink=blue bgcolor="FFFFE0">
+<body vlink="blue" bgcolor="FFFFE0">
 <?php session_start(); ?>
 <center>
 <h1><?php echo $_SESSION['title']; ?></h1>

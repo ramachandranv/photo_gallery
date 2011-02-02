@@ -58,7 +58,7 @@ function display()
 window.onload=getimages();
 </script>
 </head>
-<body vlink=blue bgcolor="FFFFE0">
+<body vlink="blue" bgcolor="FFFFE0">
 
 <center>
 <h1>Family</h1>
